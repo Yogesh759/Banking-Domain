@@ -74,7 +74,7 @@ Home:![Dashboard Preview](https://github.com/Yogesh759/Banking-Domain/blob/main/
 
 ### 🛠️ How to Use
 1️⃣ Clone this repository:
-git clone https://github.com/yourusername/powerbi-banking-dashboard.git
+git clone https://github.com/Yogesh759/Banking-Domain.git
 2️⃣ Open the .pbix file in Power BI Desktop
 
 3️⃣ Load or replace with your dataset under Transform Data
