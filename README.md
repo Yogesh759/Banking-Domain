@@ -4,11 +4,10 @@ An interactive banking risk analytics dashboard built using Power BI to help ban
 
 This project clearly uses the STAR method to explain its workflow for better understanding during interviews, portfolio reviews, or GitHub exploration.
 
-⭐ STAR Method Explanation
-✅ S – Situation
+✅ Situation
 Banks need to assess customer profiles to decide on loan approvals while minimizing risk. Manual assessment can lead to inconsistencies and financial loss if high-risk applicants are approved.
 
-✅ T – Task
+✅ Task
 Build a Power BI dashboard to:
 
 Analyze customer profiles for lending risk
@@ -17,7 +16,7 @@ Visualize key metrics like loans, deposits, client segmentation
 
 Empower banks to make data-backed loan decisions
 
-✅ A – Action
+✅ Action
 Using Power BI and provided datasets:
 
 Data Cleaning:
@@ -50,7 +49,7 @@ Summary Dashboard: Consolidated view for quick insights
 
 Added slicers for Gender, Banking Relationship, Year, and Institution Advisor for easy filtering
 
-✅ R – Result
+✅ Result
 The Power BI dashboards:
 
 Provide clear insights into customer profiles
@@ -64,7 +63,10 @@ Allow stakeholders to make fast, data-driven decisions
 The dashboards are scalable for future predictive analytics, automated reporting, and client-level deep dives.
 
 🖼️ Screenshots
-Home	Loan Analysis	Deposit Analysis	Summary
+Home:https://github.com/Yogesh759/Banking-Domain/blob/main/home_page_banking.png
+
+
+Loan Analysis	Deposit Analysis	Summary
 
 🛠️ How to Use
 1️⃣ Clone this repository:
