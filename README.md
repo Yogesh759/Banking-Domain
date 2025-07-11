@@ -63,8 +63,7 @@ Allow stakeholders to make fast, data-driven decisions
 The dashboards are scalable for future predictive analytics, automated reporting, and client-level deep dives.
 
 🖼️ Screenshots
-Home:[(https://github.com/Yogesh759/Banking-Domain/blob/main/home_page_banking.png)](https://github.com/Yogesh759/Banking-Domain/blob/3cd23ff8b90ca01ea6845398d49c4ac4877cbdf6/home_page_banking.png)
-
+Home:![Dashboard Preview](https://github.com/Yogesh759/Banking-Domain/blob/main/home_page_banking.png)
 
 Loan Analysis	Deposit Analysis	Summary
 
